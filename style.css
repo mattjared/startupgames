@@ -22,6 +22,16 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 0 auto;
 }
 
+.hero {
+	background: url(hero32.jpg) no-repeat center center;
+	/*photo cred: http://www.flickr.com/photos/stewtopia/4840152194/sizes/o/*/
+	background-size: cover;
+  	height: 600px;
+}
+
+.hero h1 {
+	color: white;
+}
 .col-lg-13 {
 	width: 100%;
 	padding: 0;
