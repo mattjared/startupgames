@@ -15,6 +15,18 @@ h1,h2,h3,h4,h5,h6 {
 	color: inherit;
 }
 
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.center {
+	margin: 0 auto;
+	float: none;
+}
 .container {
 	width: 100%;
 	max-width: 940px;
@@ -27,6 +39,10 @@ h1,h2,h3,h4,h5,h6 {
 	/*photo cred: http://www.flickr.com/photos/stewtopia/4840152194/sizes/o/*/
 	background-size: cover;
   	height: 600px;
+}
+
+.hero img{
+	margin: 150px auto 0 auto;
 }
 
 .hero h1 {
