@@ -48,6 +48,12 @@ a:hover, a:active, a:focus {
 	padding: 0;
 }
 
+h3 {
+	margin-bottom: 25px;
+}
+
+/*This is in place for the muted sub heads*/
+
 .hero {
 	background: url(hero33.jpg) no-repeat center center;
 	/*photo cred: http://www.flickr.com/photos/stewtopia/4840152194/sizes/o/*/
@@ -132,6 +138,13 @@ a:hover, a:active, a:focus {
 	padding: 15px 0;
 }
 
+.spacer {
+	width: 100px;
+	height: 2px;
+	background-color: #0a8c45;
+	margin: 25px auto;
+}
+
 .about {
 	padding: 150px 0;
 }
@@ -148,6 +161,15 @@ a:hover, a:active, a:focus {
 	padding: 150px 0;
 }
 
+.the-startups>header>h3 {
+	margin-bottom: 5px;
+}
+
 .the-games {
 	padding: 150px 0;
+}
+
+.press {
+	padding: 150px 0;
+	background-color: #f7f7f7;
 }
