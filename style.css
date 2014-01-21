@@ -132,6 +132,10 @@ h3 {
 	background-color: #0a8c45;
 }
 
+#navbar .active a {
+    color: red;
+}
+
 .navbar-default {
 	border: none;
 }
