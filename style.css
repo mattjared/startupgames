@@ -65,9 +65,20 @@ h3 {
 	margin: 150px auto 0 auto;
 }
 
-.hero h1 {
+.hero h3 {
+	margin-top: 100px;
 	color: white;
 }
+
+.hero h4 a {
+	color: white;
+}
+
+.hero h4 a:hover {
+	transition: color .5s ease;
+	color: #0a8c45;
+}
+
 .col-lg-13 {
 	width: 100%;
 	padding: 0;
@@ -172,4 +183,8 @@ h3 {
 .press {
 	padding: 150px 0;
 	background-color: #f7f7f7;
+}
+
+.contact {
+	padding: 150px 0 50px 0;
 }
