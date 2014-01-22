@@ -184,9 +184,27 @@ h3 {
 	padding: 150px 0;
 }
 
+.the-games .nav-tabs.nav-justified {
+	margin-top: 50px;
+}
+
 .press {
 	padding: 150px 0;
 	background-color: #f7f7f7;
+}
+
+.tweets {
+	padding: 50px 0 150px 0;
+}
+
+.press h4 {
+	font-size: 1.5em;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.press p {
+	margin-bottom: 50px;
 }
 
 .contact {
